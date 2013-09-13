@@ -168,3 +168,4 @@
 2013-10-29 - Add pipeline automation (#2013-89)
 2013-11-27 - Improve performance metrics (#2013-90)
 2013-12-08 - Add event alerts (#2013-91)
+2013-09-13 - Optimize query builder (#2013-92)
