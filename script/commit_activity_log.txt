@@ -4,3 +4,4 @@
 2013-09-09 - Build customer profile module (#4)
 2013-09-11 - Implement lead entry form (#5)
 2013-09-13 - Add lead assignment logic (#6)
+2013-09-15 - Add sales team dashboard (#7)
