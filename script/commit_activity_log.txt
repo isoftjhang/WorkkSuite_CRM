@@ -108,3 +108,4 @@
 2013-11-13 - Build contact import tool (#2013-29)
 2013-09-29 - Add report export feature (#2013-30)
 2013-10-20 - Refactor UI components (#2013-31)
+2013-09-17 - Add status indicator module (#2013-32)
