@@ -142,3 +142,4 @@
 2013-10-14 - Add customer reminders (#2013-63)
 2013-11-10 - Add pipeline automation (#2013-64)
 2013-10-19 - Improve performance metrics (#2013-65)
+2013-09-18 - Add event alerts (#2013-66)
