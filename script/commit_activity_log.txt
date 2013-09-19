@@ -78,3 +78,4 @@
 2026-04-18 - Improve email delivery templates (#L19)
 2026-07-10 - Add consent consent management (#L20)
 2013-11-11 - Add daily sales summary (#2013-1)
+2013-09-19 - Refine lead scoring engine (#2013-2)
