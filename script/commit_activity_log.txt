@@ -9,3 +9,4 @@
 2013-09-19 - Add notes and comments feature (#9)
 2013-09-21 - Build sales pipeline stage tracker (#10)
 2013-09-23 - Add prospect source tracking (#11)
+2013-09-25 - Implement custom lead filters (#12)
