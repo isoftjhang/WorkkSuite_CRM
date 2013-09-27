@@ -114,3 +114,4 @@
 2013-10-13 - Add user settings panel (#2013-35)
 2013-09-28 - Refine access logs (#2013-36)
 2013-10-25 - Implement notes tagging (#2013-37)
+2013-09-27 - Add customer reminders (#2013-38)
