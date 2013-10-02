@@ -109,3 +109,4 @@
 2013-09-29 - Add report export feature (#2013-30)
 2013-10-20 - Refactor UI components (#2013-31)
 2013-09-17 - Add status indicator module (#2013-32)
+2013-10-02 - Improve data validation (#2013-33)
