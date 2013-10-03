@@ -12,3 +12,4 @@
 2013-09-25 - Implement custom lead filters (#12)
 2013-09-27 - Build project task scaffolding (#13)
 2013-10-01 - Add invoice draft feature (#14)
+2013-10-03 - Create payment schedule service (#15)
