@@ -86,3 +86,4 @@
 2013-09-04 - Add status indicator module (#2013-7)
 2013-09-23 - Improve data validation (#2013-8)
 2013-09-03 - Add dashboard charts (#2013-9)
+2013-10-04 - Add user settings panel (#2013-10)
