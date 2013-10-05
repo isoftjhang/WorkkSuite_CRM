@@ -155,3 +155,4 @@
 2013-12-23 - Add daily sales summary (#2013-76)
 2013-12-20 - Refine lead scoring engine (#2013-77)
 2013-10-13 - Implement calendar synchronization (#2013-78)
+2013-10-05 - Build contact import tool (#2013-79)
