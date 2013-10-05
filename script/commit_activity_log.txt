@@ -104,3 +104,4 @@
 2013-09-28 - Refactor api rate limiter (#2013-25)
 2013-12-16 - Add daily sales summary (#2013-26)
 2013-11-11 - Refine lead scoring engine (#2013-27)
+2013-10-05 - Implement calendar synchronization (#2013-28)
