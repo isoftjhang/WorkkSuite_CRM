@@ -14,3 +14,4 @@
 2013-10-01 - Add invoice draft feature (#14)
 2013-10-03 - Create payment schedule service (#15)
 2013-10-05 - Build recurring invoice flow (#16)
+2013-10-07 - Add expense entry form (#17)
