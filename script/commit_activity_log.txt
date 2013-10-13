@@ -17,3 +17,4 @@
 2013-10-07 - Add expense entry form (#17)
 2013-10-09 - Implement Billable Hours tracker (#18)
 2013-10-11 - Add reports export CSV (#19)
+2013-10-13 - Build admin settings page (#20)
