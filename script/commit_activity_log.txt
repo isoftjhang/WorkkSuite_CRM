@@ -151,3 +151,4 @@
 2013-09-29 - Add client approval step (#2013-72)
 2013-12-27 - Improve mobile layout (#2013-73)
 2013-10-05 - Add project templates (#2013-74)
+2013-10-19 - Refactor api rate limiter (#2013-75)
