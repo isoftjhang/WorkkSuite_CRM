@@ -162,3 +162,4 @@
 2013-12-07 - Improve data validation (#2013-83)
 2013-12-10 - Add dashboard charts (#2013-84)
 2013-10-28 - Add user settings panel (#2013-85)
+2013-10-26 - Refine access logs (#2013-86)
