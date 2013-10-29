@@ -165,3 +165,4 @@
 2013-10-26 - Refine access logs (#2013-86)
 2013-12-20 - Implement notes tagging (#2013-87)
 2013-10-04 - Add customer reminders (#2013-88)
+2013-10-29 - Add pipeline automation (#2013-89)
