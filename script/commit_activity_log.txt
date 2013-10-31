@@ -26,3 +26,4 @@
 2013-10-25 - Add project kanban board (#26)
 2013-10-27 - Define CRM architecture (#27)
 2013-10-29 - Create database migrations (#28)
+2013-10-31 - Add user authentication workflow (#29)
