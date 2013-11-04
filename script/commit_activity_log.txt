@@ -28,3 +28,4 @@
 2013-10-29 - Create database migrations (#28)
 2013-10-31 - Add user authentication workflow (#29)
 2013-11-02 - Build customer profile module (#30)
+2013-11-04 - Implement lead entry form (#31)
