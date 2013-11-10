@@ -31,3 +31,4 @@
 2013-11-04 - Implement lead entry form (#31)
 2013-11-06 - Add lead assignment logic (#32)
 2013-11-08 - Add sales team dashboard (#33)
+2013-11-10 - Create contact management service (#34)
