@@ -33,3 +33,4 @@
 2013-11-08 - Add sales team dashboard (#33)
 2013-11-10 - Create contact management service (#34)
 2013-11-12 - Add notes and comments feature (#35)
+2013-11-14 - Build sales pipeline stage tracker (#36)
