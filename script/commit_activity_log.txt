@@ -35,3 +35,4 @@
 2013-11-12 - Add notes and comments feature (#35)
 2013-11-14 - Build sales pipeline stage tracker (#36)
 2013-11-16 - Add prospect source tracking (#37)
+2013-11-18 - Implement custom lead filters (#38)
