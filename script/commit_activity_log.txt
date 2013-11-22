@@ -37,3 +37,4 @@
 2013-11-16 - Add prospect source tracking (#37)
 2013-11-18 - Implement custom lead filters (#38)
 2013-11-20 - Build project task scaffolding (#39)
+2013-11-22 - Add invoice draft feature (#40)
