@@ -88,3 +88,4 @@
 2013-09-03 - Add dashboard charts (#2013-9)
 2013-10-04 - Add user settings panel (#2013-10)
 2013-09-18 - Refine access logs (#2013-11)
+2013-11-28 - Implement notes tagging (#2013-12)
