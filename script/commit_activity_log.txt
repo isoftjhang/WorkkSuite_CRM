@@ -41,3 +41,4 @@
 2013-11-24 - Create payment schedule service (#41)
 2013-11-26 - Build recurring invoice flow (#42)
 2013-11-28 - Add expense entry form (#43)
+2013-11-30 - Implement Billable Hours tracker (#44)
