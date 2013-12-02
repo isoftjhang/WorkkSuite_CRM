@@ -42,3 +42,4 @@
 2013-11-26 - Build recurring invoice flow (#42)
 2013-11-28 - Add expense entry form (#43)
 2013-11-30 - Implement Billable Hours tracker (#44)
+2013-12-02 - Add reports export CSV (#45)
