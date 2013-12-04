@@ -80,3 +80,4 @@
 2013-11-11 - Add daily sales summary (#2013-1)
 2013-09-19 - Refine lead scoring engine (#2013-2)
 2013-11-11 - Implement calendar synchronization (#2013-3)
+2013-12-04 - Build contact import tool (#2013-4)
