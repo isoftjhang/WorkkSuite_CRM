@@ -116,3 +116,4 @@
 2013-10-25 - Implement notes tagging (#2013-37)
 2013-09-27 - Add customer reminders (#2013-38)
 2013-11-23 - Add pipeline automation (#2013-39)
+2013-12-06 - Improve performance metrics (#2013-40)
