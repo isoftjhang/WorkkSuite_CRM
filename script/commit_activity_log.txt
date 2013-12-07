@@ -125,3 +125,4 @@
 2013-12-15 - Add billing adjustment flow (#2013-46)
 2013-11-05 - Add client approval step (#2013-47)
 2013-11-11 - Improve mobile layout (#2013-48)
+2013-12-07 - Add project templates (#2013-49)
