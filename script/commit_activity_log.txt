@@ -45,3 +45,4 @@
 2013-12-02 - Add reports export CSV (#45)
 2013-12-04 - Build admin settings page (#46)
 2013-12-06 - Add email notification templates (#47)
+2013-12-08 - Implement customer activity timeline (#48)
