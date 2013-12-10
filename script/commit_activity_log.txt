@@ -46,3 +46,4 @@
 2013-12-04 - Build admin settings page (#46)
 2013-12-06 - Add email notification templates (#47)
 2013-12-08 - Implement customer activity timeline (#48)
+2013-12-10 - Build document attachment support (#49)
