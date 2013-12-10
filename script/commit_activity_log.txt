@@ -160,3 +160,4 @@
 2013-11-22 - Refactor UI components (#2013-81)
 2013-11-27 - Add status indicator module (#2013-82)
 2013-12-07 - Improve data validation (#2013-83)
+2013-12-10 - Add dashboard charts (#2013-84)
