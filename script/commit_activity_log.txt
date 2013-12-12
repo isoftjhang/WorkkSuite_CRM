@@ -47,3 +47,4 @@
 2013-12-06 - Add email notification templates (#47)
 2013-12-08 - Implement customer activity timeline (#48)
 2013-12-10 - Build document attachment support (#49)
+2013-12-12 - Add multi-company configuration (#50)
