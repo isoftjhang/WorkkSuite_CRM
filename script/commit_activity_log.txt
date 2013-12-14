@@ -48,3 +48,4 @@
 2013-12-08 - Implement customer activity timeline (#48)
 2013-12-10 - Build document attachment support (#49)
 2013-12-12 - Add multi-company configuration (#50)
+2013-12-14 - Create role and permission models (#51)
