@@ -49,3 +49,4 @@
 2013-12-10 - Build document attachment support (#49)
 2013-12-12 - Add multi-company configuration (#50)
 2013-12-14 - Create role and permission models (#51)
+2013-12-16 - Add project kanban board (#52)
