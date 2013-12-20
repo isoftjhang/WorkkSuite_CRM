@@ -51,3 +51,4 @@
 2013-12-14 - Create role and permission models (#51)
 2013-12-16 - Add project kanban board (#52)
 2013-12-18 - Define CRM architecture (#53)
+2013-12-20 - Create database migrations (#54)
