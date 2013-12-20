@@ -153,3 +153,4 @@
 2013-10-05 - Add project templates (#2013-74)
 2013-10-19 - Refactor api rate limiter (#2013-75)
 2013-12-23 - Add daily sales summary (#2013-76)
+2013-12-20 - Refine lead scoring engine (#2013-77)
