@@ -52,3 +52,4 @@
 2013-12-16 - Add project kanban board (#52)
 2013-12-18 - Define CRM architecture (#53)
 2013-12-20 - Create database migrations (#54)
+2013-12-22 - Add user authentication workflow (#55)
