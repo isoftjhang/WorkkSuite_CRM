@@ -152,3 +152,4 @@
 2013-12-27 - Improve mobile layout (#2013-73)
 2013-10-05 - Add project templates (#2013-74)
 2013-10-19 - Refactor api rate limiter (#2013-75)
+2013-12-23 - Add daily sales summary (#2013-76)
