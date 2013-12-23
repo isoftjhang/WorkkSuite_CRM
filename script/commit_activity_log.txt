@@ -82,3 +82,4 @@
 2013-11-11 - Implement calendar synchronization (#2013-3)
 2013-12-04 - Build contact import tool (#2013-4)
 2013-11-03 - Add report export feature (#2013-5)
+2013-12-23 - Refactor UI components (#2013-6)
