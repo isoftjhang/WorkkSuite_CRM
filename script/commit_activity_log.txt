@@ -94,3 +94,4 @@
 2013-09-10 - Improve performance metrics (#2013-15)
 2013-11-11 - Add event alerts (#2013-16)
 2013-10-09 - Optimize query builder (#2013-17)
+2013-12-26 - Add customer timeline notes (#2013-18)
