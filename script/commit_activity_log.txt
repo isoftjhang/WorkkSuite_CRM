@@ -54,3 +54,4 @@
 2013-12-20 - Create database migrations (#54)
 2013-12-22 - Add user authentication workflow (#55)
 2013-12-24 - Build customer profile module (#56)
+2013-12-26 - Implement lead entry form (#57)
