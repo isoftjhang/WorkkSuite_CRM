@@ -149,3 +149,4 @@
 2013-12-28 - Refine notification delivery (#2013-70)
 2013-09-03 - Add billing adjustment flow (#2013-71)
 2013-09-29 - Add client approval step (#2013-72)
+2013-12-27 - Improve mobile layout (#2013-73)
