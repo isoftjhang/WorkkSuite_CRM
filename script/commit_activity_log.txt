@@ -146,3 +146,4 @@
 2013-10-21 - Optimize query builder (#2013-67)
 2013-10-18 - Add customer timeline notes (#2013-68)
 2013-10-07 - Add recurring billing rules (#2013-69)
+2013-12-28 - Refine notification delivery (#2013-70)
