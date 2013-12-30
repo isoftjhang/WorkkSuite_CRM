@@ -56,3 +56,4 @@
 2013-12-24 - Build customer profile module (#56)
 2013-12-26 - Implement lead entry form (#57)
 2013-12-28 - Add lead assignment logic (#58)
+2013-12-30 - Add sales team dashboard (#59)
