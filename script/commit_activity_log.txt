@@ -57,3 +57,4 @@
 2013-12-26 - Implement lead entry form (#57)
 2013-12-28 - Add lead assignment logic (#58)
 2013-12-30 - Add sales team dashboard (#59)
+2014-02-18 - Refine reporting charts (#L1)
