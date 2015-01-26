@@ -7,3 +7,4 @@
 - 2014: invoicing automation and recurring billing preparation.
 - 2014: reporting dashboards and revenue forecasts.
 - 2014: team collaboration and notification channels.
+- 2015: client portal and activity timeline.
