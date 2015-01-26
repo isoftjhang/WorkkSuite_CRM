@@ -1,4 +1,11 @@
-# Readme for worksuite
+# WorkSuite CRM
+
+Company Name: I Soft Solutions
+Developed by: Muhammad Imran Hussain Khan
+Web: www.isoft.com.pk
+
+This project contains the CRM and business management solution used by I Soft Solutions, with core modules for sales, billing, reporting, collaboration, and client experience.
+
 ### Plugins used in the app
 
 <ol>

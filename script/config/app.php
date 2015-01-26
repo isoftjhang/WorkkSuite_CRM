@@ -16,13 +16,17 @@ return [
     */
 
     // This will determine if the application worksuite or worksuite-saas
-    'app_name' => 'worksuite-saas',
+    'app_name' => env('APP_NAME', 'I Soft Solutions CRM'),
 
-    'name' => 'Worksuite Saas',
+    'name' => env('APP_NAME', 'I Soft Solutions CRM'),
 
 
     // We will use this for email copyright message
-    'global_app_name' => 'Worksuite Saas',
+    'global_app_name' => env('GLOBAL_APP_NAME', 'I Soft Solutions CRM'),
+
+    'company_name' => env('COMPANY_NAME', 'I Soft Solutions'),
+    'developer_name' => env('DEVELOPER_NAME', 'Muhammad Imran Hussain Khan'),
+    'developer_website' => env('DEVELOPER_WEBSITE', 'www.isoft.com.pk'),
 
     'main_domain_name' => env('MAIN_DOMAIN_NAME', null),
 

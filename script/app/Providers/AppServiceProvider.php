@@ -16,6 +16,10 @@ class AppServiceProvider extends ServiceProvider
 {
 
     /**
+     * Application service provider for I Soft Solutions.
+     * Developed by Muhammad Imran Hussain Khan.
+     * Website: www.isoft.com.pk.
+     *
      * Register any application services.
      *
      * @return void

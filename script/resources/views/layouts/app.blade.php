@@ -5,6 +5,10 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="application-name" content="{{ config('app.name') }}">
+    <meta name="author" content="{{ config('app.developer_name') }}">
+    <meta name="publisher" content="{{ config('app.company_name') }}">
+    <meta name="website" content="{{ config('app.developer_website') }}">
 
     <link rel="icon" type="image/png" sizes="16x16" href="{{ companyOrGlobalSetting()->favicon_url }}">
 

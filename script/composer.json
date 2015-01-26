@@ -1,11 +1,13 @@
 {
     "name": "laravel/laravel",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "I Soft Solutions CRM and business management platform.",
     "keywords": [
         "framework",
         "laravel",
-        "worksuite"
+        "worksuite",
+        "isoft-solutions",
+        "crm"
     ],
     "license": "MIT",
     "require": {

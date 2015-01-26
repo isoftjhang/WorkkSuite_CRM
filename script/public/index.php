@@ -1,5 +1,14 @@
 <?php
 
+/*
+|--------------------------------------------------------------------------
+| WorkSuite CRM Application Entry
+|--------------------------------------------------------------------------
+| Company: I Soft Solutions
+| Developed by: Muhammad Imran Hussain Khan
+| Website: www.isoft.com.pk
+|*/
+
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
