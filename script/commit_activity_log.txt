@@ -62,3 +62,4 @@
 2014-06-05 - Improve search performance (#L3)
 2014-08-11 - Add two-factor authentication support (#L4)
 2014-10-22 - Refactor billing service (#L5)
+2015-02-14 - Update client portal experience (#L6)
