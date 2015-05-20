@@ -63,3 +63,4 @@
 2014-08-11 - Add two-factor authentication support (#L4)
 2014-10-22 - Refactor billing service (#L5)
 2015-02-14 - Update client portal experience (#L6)
+2015-05-20 - Add user activity audit logs (#L7)
