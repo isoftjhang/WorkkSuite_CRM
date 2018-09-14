@@ -67,3 +67,4 @@
 2016-03-15 - Improve mobile responsive layout (#L8)
 2017-07-12 - Add API endpoints for projects (#L9)
 2018-01-08 - Refine notification preferences (#L10)
+2018-09-14 - Add timezone settings per user (#L11)
