@@ -68,3 +68,4 @@
 2017-07-12 - Add API endpoints for projects (#L9)
 2018-01-08 - Refine notification preferences (#L10)
 2018-09-14 - Add timezone settings per user (#L11)
+2019-05-22 - Add payment gateway integration (#L12)
