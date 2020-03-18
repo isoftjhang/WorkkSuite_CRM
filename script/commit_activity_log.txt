@@ -69,3 +69,4 @@
 2018-01-08 - Refine notification preferences (#L10)
 2018-09-14 - Add timezone settings per user (#L11)
 2019-05-22 - Add payment gateway integration (#L12)
+2020-03-18 - Improve analytics dashboard (#L13)
