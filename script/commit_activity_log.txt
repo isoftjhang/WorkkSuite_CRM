@@ -71,3 +71,4 @@
 2019-05-22 - Add payment gateway integration (#L12)
 2020-03-18 - Improve analytics dashboard (#L13)
 2021-09-10 - Add multilingual support (#L14)
+2022-08-25 - Refine installation wizard (#L15)
