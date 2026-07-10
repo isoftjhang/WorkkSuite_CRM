@@ -76,3 +76,4 @@
 2024-05-07 - Implement release notes page (#L17)
 2025-10-02 - Add project milestones module (#L18)
 2026-04-18 - Improve email delivery templates (#L19)
+2026-07-10 - Add consent consent management (#L20)
